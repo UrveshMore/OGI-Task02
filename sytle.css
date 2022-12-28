@@ -1,0 +1,26 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+.cards{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card{
+    width: 23%;
+    box-shadow: 0 0 4px 3px rgba(253, 0, 0, 0.591);
+    text-align: center;
+    padding: 1.5em;
+    margin-bottom: 2em;
+}
+.btn1:hover{
+    background-color: rgb(234, 53, 21);
+}
+
+.btn2:hover{
+    background-color: rgb(234, 53, 21);
+}
